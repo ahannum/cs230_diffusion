@@ -11,7 +11,7 @@ In this project, we implemented a U-Net convolutional neural network in order to
 This repository contains the models that were trained,notebooks used to generate data for training, 
 and notebooks for testing the data. 
 
-This project was the final course project for CS230: Deep Learning, at Stanford University, Fall 2022. The project
+This project was the final course project for CS230: Deep Learning, at Stanford University, Fall 2021. The project
 was an "Outstanding Project" for the course during the quarter: http://cs230.stanford.edu/past-projects/
 
 Final Project Report can be found here: 
